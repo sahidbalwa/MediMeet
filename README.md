@@ -1,4 +1,4 @@
-# 🩺 Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI Tutorial 🔥🔥
+# 🩺 Full Stack Doctors Appointment Platform with Next JS, Neon, Tailwind, Vonage, Shadcn UI Project 🔥🔥
 
 
 A full-stack doctor appointment booking platform built with **Next.js**, featuring secure user authentication, video consultations, and subscription-based access to doctors.
